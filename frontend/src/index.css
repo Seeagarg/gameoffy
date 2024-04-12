@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.MuiTooltip-tooltip {
+   
+    background: linear-gradient(40deg, rgba(16,185,129,1) 29%, rgba(241,194,52,1) 78%) !important;
+    color: black !important; 
+    border-radius: 4px; 
+    padding: 0.5rem 1rem 0.5rem 1rem!important;
+  }
+
+
+  .css-7dv1rb-MuiButtonBase-root-MuiFab-root-MuiSpeedDial-fab{
+    /* background: linear-gradient(40deg, rgba(16,185,129,1) 29%, rgba(241,194,52,1) 78%) !important; */
+  }
